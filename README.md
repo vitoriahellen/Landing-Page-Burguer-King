@@ -1,2 +1,2 @@
 # Landing-Page-Burguer-King
-LandingPage Teste do Burguer King 
+LandingPage criado durante estudo de HTML e CSS 
